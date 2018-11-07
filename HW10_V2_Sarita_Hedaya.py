@@ -30,6 +30,7 @@ def file_reader(file_name, fields_per_line, separator=',', header=False):
                     continue
                 yield tuple(line)
 
+                
 class University:
     """ Class University imports data from .txt files, organizes such data into 
     dictionaries with classes, and prints them in prettytable format """
