@@ -1,4 +1,5 @@
 # university
+# An in depth practice of Unit Testing and PEP8 styling
 ## SSW 810: Python OOP, Special Topics in Software Engineering
 
 This repo is an assignment for SSW810. The objective of this assignment is to practce the use of object oriented programming best practices including the creation of classes, the choice of the parameters that are relevant for each class, modularization of methods, etc.
